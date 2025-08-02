@@ -17,9 +17,7 @@ Analyze your WhatsApp group or personal chat exports with insightful visualizati
 
 ---
 
-## 🚀 Live Demo
-
-https://whatsapp-chat-analyzer-64zvgx7twrhb8nbyjisjuy.streamlit.app/
+demo - https://whatsapp-chat-analyzer-64zvgx7twrhb8nbyjisjuy.streamlit.app/
 
 
 ---
