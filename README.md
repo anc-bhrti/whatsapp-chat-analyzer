@@ -19,7 +19,8 @@ Analyze your WhatsApp group or personal chat exports with insightful visualizati
 
 ## 🚀 Live Demo
 
-> 💡 Coming soon — will be hosted on Streamlit Cloud or HuggingFace Spaces.
+> 💡https://whatsapp-chat-analyzer-64zvgx7twrhb8nbyjisjuy.streamlit.app/
+
 
 ---
 
@@ -80,7 +81,7 @@ This app runs **locally on your machine** — your data is never uploaded or sto
 ## 🧑‍💻 Author
 
 **Anchal Bharti**
-[GitHub](https://github.com/anc-bhrti) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/anc-bhrti) • [LinkedIn](https://www.linkedin.com/in/anchal-bharti-5a20b6287/)
 *Contributions welcome!*
 
 ---
