@@ -2,7 +2,7 @@
 
 Analyze your WhatsApp group or personal chat exports with insightful visualizations and statistics using Python, Pandas, and Streamlit.
 
-![Streamlit Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png) <!-- Optional: Add a screenshot -->
+<img width="1907" height="1028" alt="image" src="https://github.com/user-attachments/assets/1271814f-f5c8-43bf-8f93-38ac2b715b81" />
 
 ---
 
